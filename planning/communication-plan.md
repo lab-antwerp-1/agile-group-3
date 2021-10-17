@@ -5,4 +5,4 @@
 - Alina: 10:00-12:00 (14:00-15:00)
 - Sarah:
 
-Meet everyday 5-15 min on Zoom Midweek we meet in the Library for a check in
+Meet everyday 5-15 min on Zoom Midweek we meet in person for a check in

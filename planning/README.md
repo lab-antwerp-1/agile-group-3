@@ -1,12 +1,12 @@
 # Planning
 
-* Sanne: Team Leader
+- Sanne: Team Leader
 
-* Alina: Repo owner
+- Alina: Repo owner
 
-* Tahmina: Project Owner
+- Tahmina: Project Owner
 
-* Sarah:
+- Sarah:
 
 Schedule:
 

@@ -10,7 +10,7 @@
     - [ ] Launch the website online.
 - Home page
 
-  - As a user I want to se the nice logo of the website
+  - As a user I want to see the nice logo of the website
 
     - [ ] Use the name Loruki to design a logo and put it on the left of top
           navbar.
@@ -22,7 +22,7 @@
   - As a user I want a short intro of the website
   - As a user I want a Read More Button
 
-    - [ ] There is a paragraph about what Loruki do and a read more button.
+    - [ ] There is a paragraph about what `Loruki` do and a read more button.
 
   - As a user I want a form to request a demo
 
@@ -49,7 +49,11 @@
 
 ---
 
-- Home page
-- Features page
-- Docs page
+- As a user I want to see a nice animation on the website.
+   - [ ] there are some animated elements on page load.
+- As a user, I want to have complete information on features.
+   - [ ] there is a page linked to navigation contains features. 
+- As a user, I want to have documentation and guideline on how to use `Loruki`.
+   - [ ] there is a page linked to navigation contains a clearly explaination on everything related to the app.
+  
    <!-- Alina: backlog end-->

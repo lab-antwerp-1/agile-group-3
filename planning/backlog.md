@@ -50,10 +50,10 @@
 ---
 
 - As a user I want to see a nice animation on the website.
-   - [ ] there are some animated elements on page load.
+  - [ ] there are some animated elements on page load.
 - As a user, I want to have complete information on features.
-   - [ ] there is a page linked to navigation contains features. 
+  - [ ] there is a page linked to navigation contains features.
 - As a user, I want to have documentation and guideline on how to use `Loruki`.
-   - [ ] there is a page linked to navigation contains a clearly explaination on everything related to the app.
+  - [ ] there is a page linked to navigation contains a clearly explaination.
   
    <!-- Alina: backlog end-->

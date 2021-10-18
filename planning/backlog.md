@@ -53,4 +53,3 @@
 - Features page
 - Docs page
    <!-- Alina: backlog end-->
-

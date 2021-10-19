@@ -40,11 +40,11 @@
 # should have
 
 ---
-
+<!-- Sanne: backlog start-->
 - Home page
 - Features page
 - Docs page
-<!-- Sanne: backlog start-->
+
 
 - As a user I want to easily move from one page to the next and back again
 - [ ] There is a home/back button on each new page opened

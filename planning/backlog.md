@@ -40,10 +40,33 @@
 # should have
 
 ---
-
+<!-- Sanne: backlog start-->
 - Home page
 - Features page
 - Docs page
+
+
+- As a user I want to easily move from one page to the next and back again
+- [ ] There is a home/back button on each new page opened
+
+- As a user I want a clear indication of what is to be found on each page
+- [ ] The nav bar shows clear categorys
+
+- As a user I want to see an image on each page that indicated what page I am on
+- [ ] There is a depiction of a cloud machine on the Features page and a document
+depicted on the Docs page
+
+- As a user I want to see different boxes with info on the Features page
+- [ ] There are 6 boxes with different info regarding features
+
+- As a user I want to easily move from one page to the next and back again
+- [ ] There is a home/back button on each new page opened
+
+- As a user I want a menu box on the Docs page for easy access to installation and
+deployment
+- [ ] There is a menu box with Essentials and Deployment
+
+<!-- Sanne: backlog end-->
 
 # could have
 

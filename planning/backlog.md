@@ -45,7 +45,6 @@
 - Features page
 - Docs page
 
-
 - As a user I want to easily move from one page to the next and back again
 - [ ] There is a home/back button on each new page opened
 
@@ -69,9 +68,6 @@ deployment
 <!-- Sanne: backlog end-->
 
 # could have
-<!-- 123 -->
-
----
 
 - As a user I want to see a nice animation on the website.
   - [ ] there are some animated elements on page load.

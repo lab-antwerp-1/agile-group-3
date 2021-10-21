@@ -17,7 +17,8 @@ style the info
 
 HTML: a form including name, company name , email  
 HTML: one send button  
-CSS: class form-control to style the form CSS: btn and btn-primary to style the
+CSS: class form-control to style the form   
+CSS: btn and btn-primary to style the
 button
 
 <!-- Showcase include form section strategy end --by Alina-- -->

@@ -21,4 +21,5 @@ It consists of 3 pages:
 - Features
 - Docs
 
-❔ Questions ❔ You are welcome to join our discussion with any comments or questions
+❔ Questions ❔ You are welcome to join our discussion with any comments or
+questions

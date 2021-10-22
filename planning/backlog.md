@@ -1,4 +1,3 @@
-
 <!-- Alina: backlog start-->
 
 # Must have
@@ -40,11 +39,12 @@
 # should have
 
 ---
+
 <!-- Sanne: backlog start-->
+
 - Home page
 - Features page
 - Docs page
-
 
 - As a user I want to easily move from one page to the next and back again
 - [ ] There is a home/back button on each new page opened
@@ -53,8 +53,8 @@
 - [ ] The nav bar shows clear categorys
 
 - As a user I want to see an image on each page that indicated what page I am on
-- [ ] There is a depiction of a cloud machine on the Features page and a document
-depicted on the Docs page
+- [ ] There is a depiction of a cloud machine on the Features page and a
+      document depicted on the Docs page
 
 - As a user I want to see different boxes with info on the Features page
 - [ ] There are 6 boxes with different info regarding features
@@ -62,13 +62,14 @@ depicted on the Docs page
 - As a user I want to easily move from one page to the next and back again
 - [ ] There is a home/back button on each new page opened
 
-- As a user I want a menu box on the Docs page for easy access to installation and
-deployment
+- As a user I want a menu box on the Docs page for easy access to installation
+  and deployment
 - [ ] There is a menu box with Essentials and Deployment
 
 <!-- Sanne: backlog end-->
 
 # could have
+
 <!-- 123 -->
 
 ---
@@ -78,6 +79,7 @@ deployment
 - As a user, I want to have complete information on features.
   - [ ] there is a page linked to navigation contains features.
 - As a user, I want to have documentation and guideline on how to use `Loruki`.
+
   - [ ] there is a page linked to navigation contains a clearly explaination.
-  
+
    <!-- Alina: backlog end-->

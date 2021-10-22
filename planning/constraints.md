@@ -24,12 +24,12 @@ Some boundaries around our project.
 - individual skill levels:
   - Alina: basic level of HTML and CSS
   - Sanne: basic level HTML and CSS
-  - Sarah:
+  - Abu
   - Tahmina:
 - amount of time available to work on the project
   - Alina: 3h/day
   - Sanne: 5h/day
-  - Sarah:
+  - Abu:
   - Tahmina:
 
 ## Internal: Voluntary

@@ -1,6 +1,6 @@
 # Loruki | Group 3
 
-## Development Strategy
+## Development Strategy (Sanne)
 
 ### Interface: Site online
 
@@ -14,6 +14,6 @@
 
 - logo
 - [ ] HTML: add H1 class for logo
-- [ ] CSS:  h1,h2 { font-weight: 300; line-height: 1,2; margin: 10px 0;}
+- [ ] CSS:  h1,h2 with a nice font setting
 
 ***
